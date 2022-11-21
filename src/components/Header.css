@@ -1,0 +1,33 @@
+.myheader {
+  /* margin-left: 100px; */
+  height: 50px;
+  /* margin-right: 100px; */
+  background-color: rgb(223, 223, 205);
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  margin-left: 15px;
+  padding: 5px;
+  color: darkred;
+  font-size: x-large;
+  font-weight: bolder;
+  text-decoration: underline;
+  /* justify-content: flex-end; */
+}
+
+.headitems {
+  display: flex;
+  /* margin: 10px; */
+  width: 700px;
+  justify-content: space-between;
+}
+input[type="search"] {
+  height: 30px;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}

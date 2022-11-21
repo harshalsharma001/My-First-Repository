@@ -1,0 +1,18 @@
+.main-drag-div {
+    background-color: rgb(198, 235, 193);
+    display: flex;
+    flex-direction: row;
+}
+
+.list-div {
+    background-color: rgb(182, 231, 238);
+    margin: 12px;
+    padding: 12px;
+}
+
+.lists-div {
+    background-color: rgb(250, 174, 174);
+    margin: 12px;
+    padding: 12px;
+    height: 400px;
+}
