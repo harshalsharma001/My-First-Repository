@@ -90,7 +90,7 @@ export default function Header({
     <>
       <div className="main-div">
         <div className="myheader">
-          <div className="title">Drag & Drop</div>
+          <div className="title">Drag & Drop...inside new branch</div>
           <div className="headitems">
             <div style={{ margin: "11px", cursor: "pointer" }}>
               <MdAutoDelete
