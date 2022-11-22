@@ -213,7 +213,7 @@ export default function Header({
                       className="mb-3"
                       controlId="exampleForm.ControlInput1"
                     >
-                      <Form.Label>Assigned To</Form.Label>
+                      <Form.Label>Assigned To.</Form.Label>
                       <Form.Select
                         onChange={(e) => changeHandler(e)}
                         name="assignedTo"
